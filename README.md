@@ -8,3 +8,10 @@
 - ECPC 2024
 - HCIA - AI (I will get it soon i have finished its course)
 - Java Course (I will get it soon i have finished its course)
+### Projects..👾
+- Star Union Tasks
+- Machine Learning models
+- Picsart lite Program
+- Fraction Calculator using regex
+- Encryption and decryption Program
+  
