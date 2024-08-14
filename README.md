@@ -1,4 +1,4 @@
-# Aly El-Badry Portfolio.. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" />
+# Aly El-Badry Portfolio.. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="40" height="40" />
 - Made by me 😃.
 - Still under updates for the certifications and project
 - It Is open for any recommendation for the part of projects and certifications because i have no ideas 💖😢
