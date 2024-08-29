@@ -430,7 +430,7 @@ hr {
 
 /* ===================== Projects ================= */
 .projects {
-    padding: 7%;
+    padding: 7% 7% 3% 7%;
     display: flex;
     justify-content: space-around;
 }
@@ -532,7 +532,32 @@ hr {
 .one-project:hover .github-icon {
     color: black; 
 }
-
+.bu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 7%;
+}
+.b{
+    background-color: black;
+    color: #3498db;
+    text-decoration: none;
+    margin: auto;
+    font-size: 20px;
+    font-weight: 900;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 3px solid #3498db;
+    box-shadow: 0 0 10px #3498db;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition:  0.3s ease;
+}
+.b:hover{
+    background-color: #3498db;
+    color: black;
+}
 /* ====================== Footer ================== */
 .contact-section {
     background-color: #000;
